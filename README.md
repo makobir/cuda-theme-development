@@ -9,4 +9,7 @@ Simple offline bootstrap template for beginners
 ## Components
 1. bootstrap v3.3.7
 2. jQuery v1.12.4
-3. font-awesome v4.7.0 ## Customize by. Md Alamgir Kobir
+3. font-awesome v4.7.0 
+## Customize by. 
+Md Alamgir Kobir
+FB : http://fb.com/known2me
